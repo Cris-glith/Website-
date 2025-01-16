@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>My Personal Web Page</title>
+                <style>
+                        @media(screen){
+                                        
+                        }
+                                body {
+                                                font-family: Arial, sans-serif;
+                                                            margin: 0;
+                                                                        padding: 0;
+                                                                                    background-color: #f4f4f9;
+                                                                                                color: #333;
+                                }
+                                        header {
+                                                        background-color: #4CAF50;
+                                                                    color: white;
+                                                                                padding: 20px;
+                                                                                            text-align: center;
+                                        }
+                                                nav {
+                                                                text-align: center;
+                                                                            padding: 10px;
+                                                }
+                                                        nav a {
+                                                                        margin: 0 15px;
+                                                                                    text-decoration: none;
+                                                                                                color: #4CAF50;
+                                                                                                            font-weight: bold;
+                                                        }
+                                                                section {
+                                                                                padding: 20px;
+                                                                                            max-width: 800px;
+                                                                                                        margin: 0 auto;
+                                                                }
+                                                                        footer {
+                                                                                        text-align: center;
+                                                                                                    padding: 10px;
+                                                                                                                background-color: #4CAF50;
+                                                                                                                            color: white;
+                                                                                                                                        position: fixed;
+                                                                                                                                                    bottom: 0;
+                                                                                                                                                                width: 100%;
+                                                                        }
+                                                                                img {
+                                                                                                max-width: 100%;
+                                                                                                            height: auto;
+                                                                                }
+                                                                                    </style>
+                                                                                    </head>
+                                                                                    <body>
+                                                                                        <header>
+                                                                                                <h1>Welcome to My Personal Web Page</h1>
+                                                                                                        <p>Hello! I'm Cris</p>
+                                                                                                            </header>
+                                                                                                                <nav>
+                                                                                                                        <a href="#about">About Me</a>
+                                                                                                                                <a href="#projects">Projects</a>
+                                                                                                                                        <a href="#contact">Contact</a>
+                                                                                                                                            </nav>
+                                                                                                                                                <section id="about">
+                                                                                                                                                        <h2>About Me</h2>
+                                                                                                                                                                <p>Hi! I'm Cris Paris. I enjoy to play online games.</p>
+                                                                                                                                                                        <img src="cris.jpg" alt="My Photo">
+                                                                                                                                                                            </section>
+                                                                                                                                                                                <section id="contact">
+                                                                                                                                                                                        <h2>Contact Me</h2>
+                                                                                                                                                                                                <p>Email: <a href="pariscris122403@gmail.com">pariscris122403@gmail.com</a></p>
+                                                                                                                                                                                                        <p>Phone: 09308979516</p>
+                                                                                                                                                                                                            </section>
+                                                                                                                                                                                                                <footer>
+                                                                                                                                                                                                                        <p>&copy; 2024 Cris. All rights reserved.</p>
+                                                                                                                                                                                                                            </footer>
+                                                                                                                                                                                                                            </body>
+                                                                                                                                                                                                                            </html>
+                                                                                }
+                                                                        }
+                                                                }
+                                                        }
+                                                }
+                                        }
+                                }
+                        }
